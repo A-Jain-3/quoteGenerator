@@ -3,19 +3,44 @@
 
 	const quotes = [
 	{
-		quote:
-		"Eat bitter, taste sweet.",
-		author: "Life"
+		quote: "No pain, no gain.",
+		author: "Ben Franklin"
 	},
 	{
-		quote:
-		"When life gives you lemons, make lemonade. But don't forget to add water and sugar.",
-		author: "Grumpy Cat"
+		quote: "When life gives you lemons, make lemonade.",
+		author: "Elbert Hubbard"
 	},
 	{
-		quote:
-		"Win is never quit and quit is never win.",
-		author: "Arabella"
+		quote: "Winners never quit and quitters never win.",
+		author: "Vince Lombardi"
+	},
+	{
+		quote: "An unexamined life is not worth living.",
+		author: "Socrates"
+	},
+	{
+		quote: "Like has no limitations, except the ones you make.",
+		author: "Les Brown"
+	},
+	{
+		quote: "Stop dreaming about you bucket list and start living it.",
+		author: "Annette White"
+	},
+	{
+		quote: "Be yourself, everyone else is already taken.",
+		author: "Oscar Wilde"
+	},
+	{
+		quote: "You only live once, but if you do it right, once is enough.",
+		author: "Mae West"
+	},
+	{
+		quote: "Be the change you wish to see in the world.",
+		author: "Mahatma Gandhi"
+	},
+	{
+		quote: "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+		author: "Maya Angelou"
 	}
 	];
 
